@@ -1,3 +1,2 @@
-# [mfarelsz.xyz](https://mfarelsz.xyz)
-
-Source Code Of [`mfarelsz.xyz`](https://mfarelsz.xyz)
+# [FAJRI.UK.TO](https://fajri.uk.to)
+Source Code Of [`FAJRI.UK.TO`](https://fajri.uk.to)
